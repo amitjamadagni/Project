@@ -1,0 +1,4 @@
+pigpio deamon (to avoid root while accessing the gpio pins).
+http://abyz.co.uk/rpi/pigpio/pigs.html
+
+pyinotify python wrappers 
